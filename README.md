@@ -22,8 +22,6 @@ Navigation: androidx.navigation.compose
 
 Architecture: Single Activity + Compose NavHost
 
-Firebase (planned): Magic Link login with Firebase Auth
-
 Design Goal: Clean, soft pastel (pink & white) tone with rounded components
 
 3. Screen shots
